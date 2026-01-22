@@ -1,0 +1,8 @@
+
+{
+  "name": "MBBS Nepal - MBBS Educational Platform",
+  "description": "A premium, Apple-inspired educational website for aspiring medical students in Nepal, detailing the journey, career prospects, and societal impact of becoming a doctor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
